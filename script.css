@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    font-size: 36px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aliceblue;
+    font-style: italic;
+    margin: 5px;
+    padding: 15px  ;
+    border: 10px solid red;
+    background-color: yellow;
+    background-image: url("easy.jpg");
+    border-bottom-color: green;
+    border-right-color: blue;
+    border-left-color: aqua; 
+
+}
+#head{
+    color: yellow;
+}
